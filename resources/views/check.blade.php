@@ -1,5 +1,5 @@
 @extends('layout')
-
+    
 @section('content')
     <h1>Check List</h1>
 
